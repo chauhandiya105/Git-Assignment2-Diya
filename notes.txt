@@ -1,2 +1,6 @@
 hello Namaste Vadodara 
+<<<<<<< HEAD
 This is LOCAL change.
+=======
+This is REMOTE change.
+>>>>>>> c99fedd5d0e5aeaa8ec59e7ddca04f7e771ac77b
